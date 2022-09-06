@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently creating projects and preparing for interviews
 <!--
 **PixlePixle/PixlePixle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
