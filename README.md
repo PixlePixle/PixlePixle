@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m a 3rd year student at the University of Georgia pursuing a B.S. in Computer Science.
+- 🌱 I’m a 4th year student at the University of Georgia pursuing a B.S. in Computer Science.
 - I'm currently working in C++ with Unity for work.
 <!--
 **PixlePixle/PixlePixle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
